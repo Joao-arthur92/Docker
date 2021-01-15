@@ -1,6 +1,6 @@
 # Docker
 
-Prática de Docker feito pelo mini curso da <a href='https://cognitiveclass.ai/courses/docker-essentials'>IBM</a>
+Prática de Docker feito no mini curso da <a href='https://cognitiveclass.ai/courses/docker-essentials'>IBM</a>
 
 <b>Dockerfile</b>: Código para construir o Docker image
 
